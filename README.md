@@ -1,3 +1,5 @@
+Co-authored by: @arkanivasarkar
+
 # Enhancing-Drug-Safety-using-Explainable-AI
 
 This repository contains the implementation of an explainable AI based method for improving drug safety.
